@@ -1,0 +1,3 @@
+gradio>=3.0
+pandas
+# openai    # add if you will call OpenAI
